@@ -7,7 +7,7 @@
 ![](https://komarev.com/ghpvc/?username=MiroZe&color=blue)
 
 ### My Skills:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,angular,nodejs,express,mongo)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,js,html,css,angular,nodejs,express,mongo)](https://skillicons.dev)
 ---
 
 
